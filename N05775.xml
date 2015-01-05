@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0F69185F63917FD0:007331_0000_0000000000000000"/>
-            <pb facs="tcp:0F69185F63917FD0:007331_0001_0000000000000000"/>
+            <pb facs="unknown:007331_0000_0000000000000000"/>
+            <pb facs="unknown:007331_0001_0000000000000000"/>
             <p>THE
 JOURNAL
 OF
@@ -136,7 +136,7 @@ FRENCH OFFICER's ANSWER.</p>
 Printed by WILLIAM HUNTER. 1754.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:0F69185F63917FD0:007331_0002_0000000000000000"/>
+            <pb facs="unknown:007331_0002_0000000000000000"/>
             <head>ADVERTISEMENT.</head>
             <p>
                <seg rend="decorInit">A</seg>S it was thought adviseable by his Honour the
@@ -176,7 +176,7 @@ Account.</p>
       </front>
       <body>
          <div type="journal">
-            <pb n="3" facs="tcp:0F69185F63917FD0:007331_0003_0000000000000000"/>
+            <pb n="3" facs="unknown:007331_0003_0000000000000000"/>
             <head>THE
 JOURNAL, &amp;c.</head>
             <opener>
@@ -210,7 +210,7 @@ at the Mouth of <hi>Turtle</hi>-Creek, on <hi>Monongahela,</hi> till
 <hi>Thursday</hi> the 22d. We were informed here, that Expresses
 were sent a few Days ago to the Traders down the River, to
 acquaint them with the <hi>French</hi> General's Death, and the Re<g ref="char:EOLhyphen"/>turn
-<pb n="4" facs="tcp:0F69185F63917FD0:007331_0004_0000000000000000"/>
+<pb n="4" facs="unknown:007331_0004_0000000000000000"/>
 of the major Part of the <hi>French</hi> Army into Winter
 Quarters.</p>
             <p>The Waters were quite impassable, without swimming our
@@ -247,7 +247,7 @@ still Nature; besides, a Fort at the <hi>Fork</hi> might be built at
 a much less Expence, than at the other Place.—</p>
             <p>Nature has well contrived the lower Place, for Water
 Defence; but the Hill whereon it must stand being about a
-<pb n="5" facs="tcp:0F69185F63917FD0:007331_0005_0000000000000000"/>
+<pb n="5" facs="unknown:007331_0005_0000000000000000"/>
 Quarter of a Mile in Length, and then descending gradually
 on the Land Side, will render it difficult and very expen<g ref="char:EOLhyphen"/>sive,
 making a sufficient Fortification there.—The whole
@@ -286,7 +286,7 @@ Miles from our back Inhabitants.</p>
 from a Company at the <hi>Cuscuscas,</hi> which lies at the
 Mouth of this River; I got the following Account from
 them. They were sent from <hi>New Orleans</hi> with 100 Men,
-<pb n="6" facs="tcp:0F69185F63917FD0:007331_0006_0000000000000000"/>
+<pb n="6" facs="unknown:007331_0006_0000000000000000"/>
 and 8 Canoe Loads of Provisions to this Place; where they
 expected to have met the same Number of Men, from the
 Forts this Side Lake <hi>Erie,</hi> to convoy them and the Stores
@@ -327,7 +327,7 @@ ask'd him very abruptly, what he had come about, and to
 declare his Business, which he said he did in the following
 Speech.</p>
             <p>
-               <pb n="7" facs="tcp:0F69185F63917FD0:007331_0007_0000000000000000"/>
+               <pb n="7" facs="unknown:007331_0007_0000000000000000"/>
 Fathers, I am come to tell you your own Speeches; what
 <gap reason="illegible: missing" extent="1 letter">
                   <desc>•</desc>
@@ -401,7 +401,7 @@ Side we will stand by, and make equal Sharers with us. Our
 Brothers the <hi>English</hi> have heard this, and I come now to tell
 it to you, for I am not afraid to discharge you off this Land.</p>
             <p>
-               <pb n="8" facs="tcp:0F69185F63917FD0:007331_0008_0000000000000000"/>
+               <pb n="8" facs="unknown:007331_0008_0000000000000000"/>
 This he said was the Substance of what he said to the
 General, who made this Reply.</p>
             <p>Now my Child, I have heard your Speech, you spcke first,
@@ -435,7 +435,7 @@ Intelligence of what the <hi>English</hi> were doing in <hi>Virginia.</hi>
             </p>
             <p>He informed me that they had built two Forts, one on
 Lake <hi>Erie,</hi> and another on <hi>French</hi>-Creek, near a small Lake
-<pb n="9" facs="tcp:0F69185F63917FD0:007331_0009_0000000000000000"/>
+<pb n="9" facs="unknown:007331_0009_0000000000000000"/>
 about 15 Miles asunder, and a large Waggon Road between;
 they are both built after the same Model, but different in the
 Size; that on the Lake the largest; he gave me a Plan of
@@ -471,7 +471,7 @@ of Wampum.</p>
             <p>After they had considered some Time on the above, the
 Half-King got up and spoke.</p>
             <p>
-               <pb n="10" facs="tcp:0F69185F63917FD0:007331_0010_0000000000000000"/>
+               <pb n="10" facs="unknown:007331_0010_0000000000000000"/>
 Now, my Brothers, in Regard to what my Brother the Go<g ref="char:EOLhyphen"/>vernor
 has desired of me, I return you this Answer.</p>
             <p>I rely upon you as a Brother ought to do, as you say we <gap reason="illegible" resp="#TECH" extent="1 word">
@@ -534,7 +534,7 @@ As I found it was impossible to get off without af<g ref="char:EOLhyphen"/>front
 them in the most egreg ious Manner, I consented to
 stay.</p>
             <p>
-               <pb n="11" facs="tcp:0F69185F63917FD0:007331_0011_0000000000000000"/>
+               <pb n="11" facs="unknown:007331_0011_0000000000000000"/>
 I gave them back a String of Wampum that I met with at
 Mr. <hi>Frazi<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
@@ -586,7 +586,7 @@ Men enough to reinforce them, and make them Mast<gap reason="illegible" resp="#T
 of the <hi>Ohio.</hi>
             </p>
             <p>
-               <pb n="12" facs="tcp:0F69185F63917FD0:007331_0012_0000000000000000"/>
+               <pb n="12" facs="unknown:007331_0012_0000000000000000"/>
 'This Speech, he said, was delivered to them by one Captain
 <hi>Ioncaire</hi> their Interpreter in Chief, living at Venango, and
 a Man of Note in the Army.</p>
@@ -626,7 +626,7 @@ Nations, if the <hi>French</hi> refused to quit the Land at this Warn<g ref="cha
 which was the third and last Time, and was the Right
 of this <hi>Ieskakake</hi> to deliver.</p>
             <p>
-               <pb n="13" facs="tcp:0F69185F63917FD0:007331_0013_0000000000000000"/>
+               <pb n="13" facs="unknown:007331_0013_0000000000000000"/>
                <hi>30th.</hi> Last Night the great Men assembled to their
 Council-House, to consult further about this Journey, and
 who were to go; the Result of which was, that only three of
@@ -663,7 +663,7 @@ for that they were sensible the <hi>English</hi> could raise two Men
 for their one; yet they knew, their Motions were too slow
 and dilstory to prevent any Undertaking of theirs. They
 pretend to have an undoubted Right to the River, from a
-<pb n="14" facs="tcp:0F69185F63917FD0:007331_0014_0000000000000000"/>
+<pb n="14" facs="unknown:007331_0014_0000000000000000"/>
 Discovery made by one <hi>La Sol</hi> 60 Years ago; and the
 Rise of this Expedition is, to prevent our settling on the
 River or Waters of it, as they have heard of some Families
@@ -700,7 +700,7 @@ general; but another Motive prevented me from bringing
 them into his Company; I knew he was Interpreter, and a
 Person of very great Influence among the <hi>Indians,</hi> and had
 lately used all possible Means to draw them over to their In<g ref="char:EOLhyphen"/>terest;
-<pb n="15" facs="tcp:0F69185F63917FD0:007331_0015_0000000000000000"/>
+<pb n="15" facs="unknown:007331_0015_0000000000000000"/>
 therefore I was desirous of giving no Opportunity
 that could be avoided.</p>
             <p>When they came in, there was great Pleasure express'd at
@@ -744,7 +744,7 @@ with me) strictly charg'd not to be out of their Company,
 as I could not get them over to my Tent (they having
 some Business with <hi>Custaloga,</hi> to know the Reason why he
 did not deliver up the <hi>French</hi> Belt which he had in Keeping)
-<pb n="16" facs="tcp:0F69185F63917FD0:007331_0016_0000000000000000"/>
+<pb n="16" facs="unknown:007331_0016_0000000000000000"/>
 but was obliged to send Mr. <hi>Gist</hi> over To-day to fetch
 them, which he did with great Persuasion.</p>
             <p>At 11 o'Clock we set out for the Fort, and were pre<g ref="char:EOLhyphen"/>vented
@@ -783,7 +783,7 @@ War, which gave me an Opportunity of taking the Di<g ref="char:EOLhyphen"/>mensi
 of the Fort, and making what Observations I
 could.</p>
             <p>
-               <pb n="17" facs="tcp:0F69185F63917FD0:007331_0017_0000000000000000"/>
+               <pb n="17" facs="unknown:007331_0017_0000000000000000"/>
 It is situated on the South, or West Fork of <hi>French</hi>
 Creek, near the Water, and is almost surrounded by the
 Creek, and a small Branch of it which forms a Kind of an
@@ -828,7 +828,7 @@ and prevent their returning with m<gap reason="illegible" resp="#TECH" extent="1
                   <desc>•</desc>
                </gap>; I endeavour'd
 all that lay in my Power to frustrate their Schemes, and
-<pb n="18" facs="tcp:0F69185F63917FD0:007331_0018_0000000000000000"/>
+<pb n="18" facs="unknown:007331_0018_0000000000000000"/>
 hurry them on to execute their intended Design; they ac<g ref="char:EOLhyphen"/>cordingly
 pr<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -867,7 +867,7 @@ returned Home.</p>
             <p>This Evening I received an Answer to his Honour the
 Governor's Letter from the Commandant.</p>
             <p>
-               <pb n="19" facs="tcp:0F69185F63917FD0:007331_0019_0000000000000000"/>
+               <pb n="19" facs="unknown:007331_0019_0000000000000000"/>
                <hi>15th,</hi> The Commandant ordered a plentiful Store of <gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
                </gap>
@@ -953,7 +953,7 @@ Cr<gap reason="illegible" resp="#TECH" extent="2 letters">
                   <desc>••</desc>
                </gap>k, several Times we had like to have been shaved against
 Rocks, and many Times were obliged all Hands to get out
-<pb n="20" facs="tcp:0F69185F63917FD0:007331_0020_0000000000000000"/>
+<pb n="20" facs="unknown:007331_0020_0000000000000000"/>
 and remain in the Water Half an Hour or more, getting
 over the Shoals; at one Place the Ice had lodged and made
 it impassable by Water; therefore we were obliged to carry
@@ -997,7 +997,7 @@ every Day; the Cold increased very fast, and the Roads were
 becoming much worse by a deep Snow, continually <gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>;
-<pb facs="tcp:0F69185F63917FD0:007331_0021_0000000000000000"/>
+<pb facs="unknown:007331_0021_0000000000000000"/>
 and as I was uneasy to get back, to make Report of
 my Proceedings to his Honour the Governor, I determined
 to prosecute my Journey the nearest Way through the
@@ -1040,7 +1040,7 @@ launched, and on Board of it, and set off; but before we were
 Half Way over, we were jammed in the Ice in such a Man<g ref="char:EOLhyphen"/>ner
 that we expected every Moment our Raft to sink, and
 ourselves to perish, I put out my setting Pole to try to stop
-<pb n="22" facs="tcp:0F69185F63917FD0:007331_0022_0000000000000000"/>
+<pb n="22" facs="unknown:007331_0022_0000000000000000"/>
 the Raft, that the Ice might pass by, when the Ra<g ref="char:EOLhyphen"/>pidity
 of the Stream threw it with so much Viol<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
@@ -1156,7 +1156,7 @@ Journey as it is possible to conceive, rendered so by excessive
 <gap reason="illegible" resp="#TECH" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Weather: From the first Day of <hi>December</hi> to the 15th,
-<pb n="23" facs="tcp:0F69185F63917FD0:007331_0023_0000000000000000"/>
+<pb n="23" facs="unknown:007331_0023_0000000000000000"/>
 there was but one Day but it rained or snowed incessantly<g ref="char:punc">▪</g>
 and throughout the whole Journey we met with nothing but
 one continued S<gap reason="illegible" resp="#TECH" extent="1 letter">
@@ -1189,7 +1189,7 @@ And very humble Servant,
             </closer>
          </div>
          <div type="letter">
-            <pb n="25" facs="tcp:0F69185F63917FD0:007331_0024_0000000000000000"/>
+            <pb n="25" facs="unknown:007331_0024_0000000000000000"/>
             <head>COPY of his Honour the GOVERNOR'S
 Letter to the Commandant of the French
 Forces on the OHIO, sent by Major
@@ -1218,7 +1218,7 @@ between the two Crowns.</p>
             <p>If these Facts are true, and you shall think fit to justify
 your Proceedings, I must desire you to acquaint me, by whose
 Authority and Instructions you have lately marched from
-<pb n="26" facs="tcp:0F69185F63917FD0:007331_0025_0000000000000000"/>
+<pb n="26" facs="unknown:007331_0025_0000000000000000"/>
                <hi>Canada,</hi> with an armed Force, and invaded the King of
 <hi>Great-Britain</hi>'s Territories, in the Manner complained of;
 that according to the Purport and Resolution of your An<g ref="char:EOLhyphen"/>swer,
@@ -1248,7 +1248,7 @@ Humble Servant,
             </closer>
          </div>
          <div type="letter">
-            <pb n="27" facs="tcp:0F69185F63917FD0:007331_0026_0000000000000000"/>
+            <pb n="27" facs="unknown:007331_0026_0000000000000000"/>
             <head>TRANSLATION of a Letter from Mr.
 Legardeur de St. Piere, a principal French Offi<g ref="char:EOLhyphen"/>cer,
 in Answer to the Governor's Letter.</head>
@@ -1281,7 +1281,7 @@ but that I am determin'd to conform myself to
 them with all the Exactness and Resolution which can
 be expected from the best Officer.</p>
             <p>
-               <pb n="28" facs="tcp:0F69185F63917FD0:007331_0027_0000000000000000"/>
+               <pb n="28" facs="unknown:007331_0027_0000000000000000"/>
 I don't know that in the Progress of this Campaign
 any Thing has passed which can be reputed an Act of
 Hostility, or that is contrary to the Treaties which sub<g ref="char:EOLhyphen"/>sist
